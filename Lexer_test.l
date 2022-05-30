@@ -1,7 +1,7 @@
 # Projet_IN104
 
 %{
-#include "parcer.h"
+#include "Parcer_test.h"
 %}
 
 %option noyywrap
